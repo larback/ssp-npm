@@ -1,0 +1,1 @@
+This git contains the source-files and detailed results generates by article "Biased random-key genetic algorithm for the job sequencing and tool switching problem with non-identical parallel machines" of Soares, L.C.R and Carvalho, M.A.M.
